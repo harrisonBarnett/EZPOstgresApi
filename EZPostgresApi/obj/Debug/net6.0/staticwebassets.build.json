@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "cB0AwYQA5Ilzf62tX5Dcivtn3SNT/wZRF8KoEuGG9cA=",
+  "Source": "EZPostgresApi",
+  "BasePath": "_content/EZPostgresApi",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

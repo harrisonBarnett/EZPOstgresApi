@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "3ivvMJo/bLYs6EPrm4H82bAFWXNg+1d/XtQpk8vyb47ujojys/DucTR4olOdYmAo9f6JIw1H1Log2qbXQYGN2Q==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Harrison\\dev\\EZPostgresApi\\EZPostgresApi\\EZPostgresApi.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Harrison\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512",
+    "C:\\Users\\Harrison\\.nuget\\packages\\npgsql\\6.0.4\\npgsql.6.0.4.nupkg.sha512",
+    "C:\\Users\\Harrison\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\6.0.0\\system.runtime.compilerservices.unsafe.6.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
